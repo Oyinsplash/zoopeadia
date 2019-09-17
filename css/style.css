@@ -1,0 +1,19 @@
+.animal-pic img{
+    height: 400px;
+    width: 350px
+}
+.animal-info{
+    height: 400px;
+    width: 350px 
+}
+.animal-container{
+    display: flex;
+    width: 96%;
+}
+.animal-card{
+    width: 32%;
+    margin: 10px;
+}
+.animal-name{
+    text-transform: capitalize;
+}

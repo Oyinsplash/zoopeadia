@@ -1,17 +1,15 @@
 .animal-pic img{
-    height: 400px;
-    width: 350px
-}
-.animal-info{
-    height: 400px;
-    width: 350px 
+    height: 300px;
+    width: 300px
 }
 .animal-container{
     display: flex;
     width: 96%;
+    flex-flow: wrap;
+    justify-content: space-between;
 }
 .animal-card{
-    width: 32%;
+    width: 20%;
     margin: 10px;
 }
 .animal-name{
